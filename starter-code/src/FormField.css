@@ -1,0 +1,13 @@
+.form-field .input {
+  width: 500px;
+}
+.form-field {
+  margin-top: 100px;
+}
+.is-success {
+  width: 100px;
+  margin-left: 20px;
+}
+.display {
+  display: none;
+}
